@@ -19,7 +19,7 @@ setTimeout(()=>{
                                     setTimeout(()=>{
                                         document.querySelector('div').innerHTML=1
                                         setTimeout(()=>{
-                                            document.querySelector('div').innerHTML="<b>HAPPY INDEPENDENCE DAY</b>"
+                                            document.querySelector('div').innerHTML="<b>CALL BACK HELL EXECUTED</b>"
                                         },1000)
                                     },1000)
                                 },1000)
